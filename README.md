@@ -52,5 +52,13 @@ This is purely for learning. I'm not aiming for perfect code, but for **progress
 
 ---
 
-## 📅 Started: June 2025  
+### 📅 Started: June 2025  
 > Updated regularly as I practice.
+
+### 🌐 Connect With Me
+
+- [Facebook](https://facebook.com/mikeymansta)  
+- [Instagram](https://linkedin.com/in/mikieeyy)  
+- [GitHub](https://github.com/MikeyMadeIt)  
+
+> Feel free to reach out or follow my progress!

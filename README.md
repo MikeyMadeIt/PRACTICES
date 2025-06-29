@@ -44,10 +44,9 @@ Make sure GCC is installed (`gcc -version` to check). Then:
 
 ```bash
 gcc filename.c -o output
-```
-```bash
 ./output
 ```
+---
 
 ### 🚀 Goals
 

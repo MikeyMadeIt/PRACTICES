@@ -37,6 +37,18 @@ java Filename.java
 ```
 ---
 
+### 🔧 C
+
+### How to Run C Files
+Make sure GCC is installed (`gcc -version` to check). Then:
+
+```bash
+gcc filename.c -o output
+```
+```bash
+./output
+```
+
 ### 🚀 Goals
 
 - Practice coding consistently  

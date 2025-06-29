@@ -1,6 +1,6 @@
-### Practices – Python and Java
+### Practices – Python, Java and C
 
-This repository contains my personal practice exercises in **Python** and **Java** as I continue learning programming. These simple programs help me understand the basics and improve my skills through hands-on coding.
+This repository contains my personal practice exercises in **Python**, **Java** and **C** as I continue learning programming. These simple programs help me understand the basics and improve my skills through hands-on coding.
 
 ---
 

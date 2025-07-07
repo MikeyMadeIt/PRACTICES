@@ -1,4 +1,4 @@
-### Practices – Python, Java and C
+### Practices – Python, Java and C/C++
 
 This repository contains my personal practice exercises in **Python**, **Java** and **C** as I continue learning programming. These simple programs help me understand the basics and improve my skills through hands-on coding.
 
@@ -40,10 +40,21 @@ java Filename.java
 ### 🔧 C
 
 ### How to Run C Files
-Make sure GCC is installed (`gcc -version` to check). Then:
+Make sure GCC is installed (`clang -version` to check). Then:
 
 ```bash
-gcc filename.c -o output
+clang filename.c -o output
+./output
+```
+---
+
+### 🔧 C++
+
+### How to Run C++ Files
+Make sure GCC is installed (`clang -version` to check). Then:
+
+```bash
+clang++ filename.cpp -o output
 ./output
 ```
 ---

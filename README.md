@@ -40,7 +40,7 @@ java Filename.java
 ### 🔧 C
 
 ### How to Run C Files
-Make sure GCC is installed (`clang -version` to check). Then:
+Make sure Clang is installed (`clang -version` to check). Then:
 
 ```bash
 clang filename.c -o output
@@ -51,7 +51,7 @@ clang filename.c -o output
 ### 🔧 C++
 
 ### How to Run C++ Files
-Make sure GCC is installed (`clang -version` to check). Then:
+Make sure Clang is installed (`clang -version` to check). Then:
 
 ```bash
 clang++ filename.cpp -o output

@@ -1,4 +1,4 @@
-### 📁 05 - IfStatement
+### 📁 05 - If Statement
 
 This exercise demonstrates the use of **`if`, `else if`, and `else` statements** in Java to make decisions based on conditions.
 

@@ -1,4 +1,4 @@
-### 📁 03 - UserInput
+### 📁 03 - User Input
 
 This exercise introduces **user input in Java** using the `Scanner` class. It asks the user for their name and age, then prints a personalized message.
 

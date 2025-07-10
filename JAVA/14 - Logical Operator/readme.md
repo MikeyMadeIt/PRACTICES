@@ -60,5 +60,5 @@ public class LogicalOperator {
 | Operator | Name         | Description                                                  |
 |----------|--------------|--------------------------------------------------------------|
 | `&&`     | Logical AND  | True if **both** conditions are true                         |
-| `||`     | Logical OR   | True if **at least one** condition is true                   |
+| `¦¦`     | Logical OR   | True if **at least one** condition is true                   |
 | `!`      | Logical NOT  | Reverses the result: true becomes false, false becomes true  |

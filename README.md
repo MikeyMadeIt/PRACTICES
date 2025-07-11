@@ -11,9 +11,6 @@ These are basic exercises I've written while learning:
 - Loops and Conditionals  
 - Functions and Methods  
 - Object-Oriented Programming (OOP)  
-- File I/O  
-- Recursion  
-- API usage (for some Python exercises)  
 
 ---
 

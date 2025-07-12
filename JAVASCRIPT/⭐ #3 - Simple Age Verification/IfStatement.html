@@ -1,1 +1,86 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>If Statement</title>
+   
+   <style>
+      *{
+         padding: 0;
+         margin: 0;
+         box-sizing: border-box;
+      }
+      body{
+         width: 100%;
+         height: 100vh;
+         background-color: #f9f9f9;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+      }
+      .container{
+         width: 80%;
+         height: 25%;
+         background-color: #fff;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         align-content: center;
+         gap: 10px;
+         border-radius: 8px;
+         -webkit-box-shadow: 6px 4px 22px -12px rgba(66, 68, 90, 1);
+         -moz-box-shadow: 6px 4px 22px -12px rgba(66, 68, 90, 1);
+         box-shadow: 6px 4px 22px -12px rgba(66, 68, 90, 1);
+      }
+      .container h3{
+         font-size: 25px;
+      }
+      .container p{
+         width: 80%;
+         height: 35px;
+         outline: none;
+         border-bottom: 1px solid black;
+         text-align: center;
+         font-size: 15px;
+         font-weight: 800;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+      }
+      .container input{
+         width: 80%;
+         height: 35px;
+         outline: none;
+         border: 1px solid black;
+         border-radius: 3px;
+      }
+      .container button{
+         width: 80%;
+         height: 35px;
+         outline: none;
+         border: 1px solid black;
+         font-weight: 800;
+         font-size: 18px;
+         border-radius: 3px;
+         background-color: darkorange;
+      }
+      .container button:hover{
+         background-color: orange;
+      }
+   </style>
+   
+</head>
+<body>
+   <div class="container">
+      <h3>Enter your age:</h3>
+      <p id="output"></p>
+      <input type="text" id="input">
+      <button id="btn">Enter</button>
+   </div>
+   
+   <script src="IfStatement.js"></script>
+</body>
+</html>

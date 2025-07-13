@@ -24,4 +24,4 @@ switch(day){
       break;
    default:
       console.log(`${day} is not a day`);
-} 
+}
